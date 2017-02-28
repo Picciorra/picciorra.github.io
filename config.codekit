@@ -24,7 +24,7 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
 	"\/index.html": {
